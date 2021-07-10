@@ -1,0 +1,8 @@
+__debug_bin
+*.log
+*.log.csv
+*.exe
+*.xlsx
+*.zip
+*.txt
+*.gz
